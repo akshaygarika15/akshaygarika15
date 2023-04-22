@@ -21,5 +21,5 @@ I am a pre-final year student at IIIT Naya Raipur, studying Data Science with Ar
 
 
 ## Find me around the web 🌎: 
-- To catch a glimpse of my personal life, follow me on . <a href="https://www.instagram.com/akshaygarika/"> Instagram</a> 
+- To catch a glimpse of my personal life, follow me on <a href="https://www.instagram.com/akshaygarika/"> Instagram</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/akshay-garika-9916191ba/">LinkedIn</a> 
