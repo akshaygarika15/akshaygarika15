@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Akshay 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Akshay Garika -  I am currently enrolled in IIIT Naya Raipur, where I am pursuing a degree in Data Science with Artificial Intelligence., a cartoon illustration of Monica">
+<img src="" alt="banner that says Akshay Garika -  I am currently enrolled in IIIT Naya Raipur, where I am pursuing a degree in Data Science with Artificial Intelligence., a cartoon illustration of Monica">
 I am a pre-final year student at IIIT Naya Raipur, studying Data Science with Artificial Intelligence, I am passionate about developing and interested in building innovative apps that solve real-world problems. With my well-rounded skill set and enthusiasm for constantly learning new techniques and technologies, I am well-positioned to make a significant impact in the tech industry. Combining my knowledge of data science and artificial intelligence with my interest in app development, I have a unique perspective on developing data-driven and user-friendly apps. I am ability to adapt to different technologies and explore new avenues of innovation sets me apart and makes me a promising candidate for future roles in tech.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Find me around the web 🌎: 
+- To catch a glimpse of my personal life, follow me on . <a href="https://www.instagram.com/akshaygarika/"> Instagram</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/akshay-garika-9916191ba/">LinkedIn</a> 
