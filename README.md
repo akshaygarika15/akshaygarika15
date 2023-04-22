@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Akshay 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Akshay Garika -  I am currently enrolled in IIIT Naya Raipur, where I am pursuing a degree in Data Science with Artificial Intelligence., a cartoon illustration of Monica">
+I am a pre-final year student at IIIT Naya Raipur, studying Data Science with Artificial Intelligence, I am passionate about developing and interested in building innovative apps that solve real-world problems. With my well-rounded skill set and enthusiasm for constantly learning new techniques and technologies, I am well-positioned to make a significant impact in the tech industry. Combining my knowledge of data science and artificial intelligence with my interest in app development, I have a unique perspective on developing data-driven and user-friendly apps. I am ability to adapt to different technologies and explore new avenues of innovation sets me apart and makes me a promising candidate for future roles in tech.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
