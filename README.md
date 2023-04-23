@@ -2,7 +2,7 @@
 
 ## Hi, I'm Akshay 👋
 
-![top img](https://user-images.githubusercontent.com/107459686/233813179-e83ab782-decf-4fc2-b96a-51f2d4be1a6a.png)
+
 
 
 I am a pre-final year student at IIIT Naya Raipur, studying Data Science with Artificial Intelligence, I am passionate about developing and interested in building innovative apps that solve real-world problems. With my well-rounded skill set and enthusiasm for constantly learning new techniques and technologies, I am well-positioned to make a significant impact in the tech industry. Combining my knowledge of data science and artificial intelligence with my interest in app development, I have a unique perspective on developing data-driven and user-friendly apps. I am ability to adapt to different technologies and explore new avenues of innovation sets me apart and makes me a promising candidate for future roles in tech.
